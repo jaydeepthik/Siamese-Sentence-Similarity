@@ -6,4 +6,4 @@ The data set is available at http://clic.cimec.unitn.it/composes/sick.html and a
 The SICK data set consists of about 10,000 English sentence pairs, generated starting from two existing sets: the 8K ImageFlickr data set and the SemEval 2012 STS MSR-Video Description data set.
 
 # NOTE
-The model uses GLoVe 6B 50D embeddings
+The model uses GLoVe 6B 50D embeddings that can be downloaded from https://nlp.stanford.edu/projects/glove/

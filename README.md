@@ -7,3 +7,6 @@ The SICK data set consists of about 10,000 English sentence pairs, generated sta
 
 # NOTE
 The model uses **GLoVe 6B 50D embeddings** that can be downloaded from https://nlp.stanford.edu/projects/glove/
+
+# Architecture
+![alt text](https://github.com/jaydeepthik/Siamese-Sentence-Similarity/blob/master/siamese.png)
